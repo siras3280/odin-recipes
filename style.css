@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 200;
+    text-align: center;
+    font-display: auto;
+}
+
+.recipes{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    display: block;
+}
